@@ -1,1 +1,1 @@
-![Superman Logo](/images/Superman Logo.png)
+![GitHub Logo](/images/Superman Logo.png)
