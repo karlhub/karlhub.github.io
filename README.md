@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 **bold**
 *italic*
+and
 _italic also_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
