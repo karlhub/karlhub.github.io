@@ -1,7 +1,7 @@
 # **Welcome**
 
 ## My profile
-https://karlhub.github.io/Iceman.jpg
+(https://karlhub.github.io/Iceman.jpg)
 
 ## Useful links
 - [link to Google!](http://google.com)
