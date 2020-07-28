@@ -39,11 +39,20 @@ if (isAwesome){
 }
 ```
 
+Here’s an example of Python code:
+
+```python
+def foo():
+    if not bar:
+        return True
+```
+
 ## Extras
 User mention: @karlhub
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
-- [x] This is a complete item
-- [ ] This is an incomplete item
-
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
