@@ -51,7 +51,7 @@ def foo():
 ```
 
 ## Extras
-User mention: @Karliceman
+User mention: @karlhub
 
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
