@@ -70,5 +70,5 @@ When you include a task list in the first comment of an Issue, you will see a he
 - ~~strikethrough~~
 
 ## Emojis
-
-sunglasses :sunglasses:
+- sunglasses :sunglasses:
+- :+1:
