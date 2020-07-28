@@ -1,9 +1,9 @@
 # **Welcome**
 
 ## My profile
-Picture | Description
-------- | -----------
-![image of Iceman](https://karlhub.github.io/Iceman.jpg) | Iceman, learning :sunglasses:
+| Picture | Description |
+| ------- | ----------- |
+| ![image of Iceman](https://karlhub.github.io/Iceman.jpg) | Iceman, learning :sunglasses: |
 
 ## Useful links
 - [link to Google!](http://google.com)
