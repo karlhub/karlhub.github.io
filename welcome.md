@@ -10,6 +10,7 @@ Picture | Description
   - [Translator](https://translate.google.es)
   - [Maps](https://www.google.es/maps)
 - [GitHub](https://github.com/)
+  - [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings)
 - [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Quotes
