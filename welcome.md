@@ -59,7 +59,7 @@ When you include a task list in the first comment of an Issue, you will see a he
 - [ ] this is an incomplete item
 
 ## Reference to commit SHA-1 hash
-https://github.com/karlhub/karlhub.github.io/commit/c4c48e9280324cb1f7b5c741fe44797e2ebff496
+[](https://github.com/karlhub/karlhub.github.io/commit/c4c48e9280324cb1f7b5c741fe44797e2ebff496)
 
 ## Text Formating
 - **Bold text**
