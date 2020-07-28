@@ -12,6 +12,7 @@ Picture | Description
 - [GitHub](https://github.com/)
   - [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#headings)
 - [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Readme](README.md)
 
 ## Quotes
 > I find your lack of faith disturbing. - Darth Vader
